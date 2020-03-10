@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="" />
+    <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/stuff.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/stuff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yuwj5bX7tntt5fvKuYRfEppg4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -25,6 +35,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -36,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/stuffPage" />
       <recent name="$PROJECT_DIR$/images/homePage" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -63,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
-      <workItem from="1583861798548" duration="5914000" />
+      <workItem from="1583861798548" duration="9675000" />
     </task>
     <servers />
   </component>
@@ -71,9 +83,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="619" height="400" key="SwitcherDM" timestamp="1583864964309">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state width="523" height="989" key="SwitcherDM" timestamp="1583880201758">
+      <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
+    <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583880201758" />
     <state width="522" height="445" key="SwitcherDM/0.23.1280.777/-1920.-75.1920.1057/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583806171957" />
     <state width="619" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1583864964309" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583869387155">
