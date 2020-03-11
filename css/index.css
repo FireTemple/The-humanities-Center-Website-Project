@@ -9,7 +9,6 @@ div .news-area{
 
 
 
-
 /**
 stuff page
  */
@@ -22,3 +21,9 @@ stuff page
 
 
 
+/**
+
+ */
+.news-area  p{
+    margin-top: 30px;
+}

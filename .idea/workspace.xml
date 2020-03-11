@@ -2,11 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Brown_Bag_Talk/2020-2011.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/stuff.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/stuff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop_cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop_detail.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +52,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yuwj5bX7tntt5fvKuYRfEppg4a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -39,14 +68,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/stuffPage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bootstrap4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bootstrap4" />
       <recent name="$PROJECT_DIR$/images/stuffPage" />
       <recent name="$PROJECT_DIR$/images/homePage" />
       <recent name="$PROJECT_DIR$/images" />
@@ -75,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
-      <workItem from="1583861798548" duration="9675000" />
+      <workItem from="1583861798548" duration="19375000" />
     </task>
     <servers />
   </component>
@@ -83,15 +113,24 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-2722" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583881848010">
+      <screen x="-3000" y="-575" width="1080" height="1920" />
+    </state>
+    <state x="-2722" y="139" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583881848010" />
+    <state x="-2959" y="24" key="SettingsEditor" timestamp="1583882708836">
+      <screen x="-3000" y="-575" width="1080" height="1920" />
+    </state>
+    <state x="-2959" y="24" key="SettingsEditor/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583882708836" />
     <state width="523" height="989" key="SwitcherDM" timestamp="1583880201758">
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
     <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583880201758" />
     <state width="522" height="445" key="SwitcherDM/0.23.1280.777/-1920.-75.1920.1057/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583806171957" />
     <state width="619" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1583864964309" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1583869387155">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup" timestamp="1583889954742">
+      <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
+    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583889954742" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1583869387155" />
   </component>
 </project>

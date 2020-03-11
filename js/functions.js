@@ -374,5 +374,6 @@ jQuery(function($) {
         });
 
     }
+    // new
 
 });
