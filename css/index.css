@@ -27,3 +27,32 @@ stuff page
 .news-area  p{
     margin-top: 30px;
 }
+
+
+
+
+/**
+Advisory board
+ */
+
+.media-body h4{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.media-body p{
+    margin-left: 20px;
+}
+
+
+.media-img img{
+    width: 129px;
+    height: 196px;
+}
+
+@media screen and (max-width: 768px) {
+    .media-img img{
+        width: 65px;
+        height: 98px;
+        text-align: center;
+    }
+}
