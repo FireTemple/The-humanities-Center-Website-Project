@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about/advisory_board_19-20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conferences/2020.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/Cheryl Ball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/Khari Brown.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/edwards.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/macali.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/mj_lisa_ze_winters.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/moldavanova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/nicole_coleman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/conferences/2020/Democracy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conferences/2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/conferences/2020.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
-      <workItem from="1583861798548" duration="25355000" />
+      <workItem from="1583861798548" duration="28717000" />
     </task>
     <servers />
   </component>
@@ -126,10 +97,10 @@
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
     <state x="-2959" y="24" key="SettingsEditor/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583891361875" />
-    <state width="523" height="989" key="SwitcherDM" timestamp="1583892816653">
+    <state width="523" height="989" key="SwitcherDM" timestamp="1583938450293">
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
-    <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583892816653" />
+    <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583938450293" />
     <state width="522" height="445" key="SwitcherDM/0.23.1280.777/-1920.-75.1920.1057/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583806171957" />
     <state width="619" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1583864964309" />
     <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup" timestamp="1583889954742">

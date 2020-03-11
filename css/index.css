@@ -3,7 +3,13 @@ div .news-area{
     background-color: #fff !important;
 }
 
+.row div{
+    margin-bottom: 10px ;
+}
 
+.center{
+    margin: 0 auto;
+}
 
 
 
@@ -55,4 +61,21 @@ Advisory board
         height: 98px;
         text-align: center;
     }
+}
+
+/**
+conferences
+ */
+
+/*.custom-conference-theme{*/
+/*    width: 100%;*/
+/*    height: 400px;*/
+/*}*/
+.conference-theme{
+    margin: 0 auto;
+}
+
+.conference-speaker-img{
+    width: 263px;
+    height: 316px;
 }
