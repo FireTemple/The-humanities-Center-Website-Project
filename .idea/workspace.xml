@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about/annual_reports.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about/message_from_TD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about/steering_committee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faculty_funding/marilyn_william.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faculty_funding/resident_scholars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faculty_funding/working_groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_funding/doctoral_dissertation_fellowship.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_funding/graduate_travel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faculty_funding/faculty_fellowship_competition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,7 @@
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
       <workItem from="1583861798548" duration="30887000" />
-      <workItem from="1589307922124" duration="3474000" />
+      <workItem from="1589307922124" duration="3800000" />
     </task>
     <servers />
   </component>
