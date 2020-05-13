@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/01-02.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/1a3c477d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/2015 Final Annual Report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/4d4b4cb9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0203.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0708-Revision1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0809.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2004_2005.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2005_2006.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2006-2007.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2010.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 15-16.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 16-17a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 2014-2015Final.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report17-18.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/AnnualReport13-14.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport10-11.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport11-12a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport12-13.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/annual_reports/ar 03-04.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/directer_words/Edwards-words.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/annual_reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/annual_reports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/message_from_TD.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/message_from_TD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +48,9 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/file/annual_reports" />
       <recent name="$PROJECT_DIR$/images/steeringcommittee" />
@@ -87,7 +71,7 @@
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
       <workItem from="1583861798548" duration="30887000" />
-      <workItem from="1589307922124" duration="14580000" />
+      <workItem from="1589307922124" duration="17687000" />
     </task>
     <servers />
   </component>
@@ -110,10 +94,10 @@
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
     <state x="-2959" y="24" key="SettingsEditor/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583891361875" />
-    <state width="523" height="989" key="SwitcherDM" timestamp="1589337162025">
+    <state width="523" height="989" key="SwitcherDM" timestamp="1589340575324">
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
-    <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1589337162025" />
+    <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1589340575324" />
     <state width="522" height="445" key="SwitcherDM/0.23.1280.777/-1920.-75.1920.1057/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583806171957" />
     <state width="619" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1583864964309" />
     <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup" timestamp="1589337174433">
