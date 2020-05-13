@@ -1,3 +1,14 @@
+/**
+    common
+ */
+footer{
+    background: #093f39;
+}
+
+
+/**
+ Home page
+ */
 div .news-area{
     margin-top: 4px;
     background-color: #fff !important;
@@ -52,9 +63,12 @@ Advisory board
 }
 
 
-.media-img img{
-    width: 129px;
-    height: 196px;
+.media-img{
+    width: 125px;
+    height: 144px;
+}
+.media:last-child{
+    margin-bottom: 30px;
 }
 
 @media screen and (max-width: 768px) {
@@ -64,6 +78,27 @@ Advisory board
         text-align: center;
     }
 }
+/**
+    steering-content
+ */
+
+.steering-content{
+    margin-top: 30px;
+}
+
+.jumbotron h1{
+    margin-bottom: 20px;
+}
+
+.jumbotron img{
+    margin-bottom: 20px;
+}
+
+/*.jumbotron > img{*/
+/*    margin-bottom: 10px;*/
+/*}*/
+
+
 
 /**
 conferences

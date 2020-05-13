@@ -939,7 +939,7 @@ input,
 
 /* ----------- TOPBAR ------------*/
 .topbar{
-	background:#0f0f0f;
+	background:#093f39;
 	color:#fff;
 	font-size:14px;
 }
@@ -2575,7 +2575,7 @@ form.findus textarea{
 
 /* --------------- FOOTER ---------------*/
 footer{
-	background:#4587d9;
+	background:#093f39;
 }
 .footer_panel .divider-left{
 	background:#fff;
