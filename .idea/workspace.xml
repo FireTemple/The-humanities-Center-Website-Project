@@ -2,21 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/Carolyn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/andrew newman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/nadejda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/perry1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/advisoryBord/19-20/steven.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/steeringcommittee/mildredmillie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/01-02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/1a3c477d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/2015 Final Annual Report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/4d4b4cb9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0203.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0708-Revision1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR0809.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2004_2005.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2005_2006.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2006-2007.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AR2010.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 15-16.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 16-17a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 2014-2015Final.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report 2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/Annual Report17-18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/AnnualReport13-14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport10-11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport11-12a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/annualreport12-13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/annual_reports/ar 03-04.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/advisory_board_19-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/advisory_board_19-20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/staff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/steering_committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/steering_committee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootsnav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootsnav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/annual_reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/annual_reports.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +60,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/steeringcommittee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/file/annual_reports" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -59,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file/annual_reports" />
       <recent name="$PROJECT_DIR$/images/steeringcommittee" />
       <recent name="$PROJECT_DIR$/images/advisoryBord/19-20" />
       <recent name="$PROJECT_DIR$/file/brown_bag_talk/2020-2021" />
       <recent name="$PROJECT_DIR$/file/commons" />
-      <recent name="$PROJECT_DIR$/images/commons" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -78,7 +87,7 @@
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
       <workItem from="1583861798548" duration="30887000" />
-      <workItem from="1589307922124" duration="13556000" />
+      <workItem from="1589307922124" duration="14580000" />
     </task>
     <servers />
   </component>

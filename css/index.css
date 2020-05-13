@@ -94,9 +94,12 @@ Advisory board
     margin-bottom: 20px;
 }
 
-/*.jumbotron > img{*/
-/*    margin-bottom: 10px;*/
-/*}*/
+/**
+    annual reports
+ */
+.annual-context{
+    background-color: #DFDDD1;
+}
 
 
 
