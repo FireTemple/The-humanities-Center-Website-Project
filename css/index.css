@@ -119,3 +119,99 @@ conferences
     width: 263px;
     height: 316px;
 }
+
+/**
+    marilyn
+ */
+
+.marilyn-info > div{
+    margin: 20px 0px 20px 0px;
+    padding: 0;
+}
+
+.marilyn-info  section{
+    background: #DFDDD1;
+}
+
+#marilyn-about{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#marilyn-word{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#marliyn-guideline-welcome{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-left > p{
+    display: inline-block;
+    line-height: 30px;
+}
+
+.info-button-ma > div > button{
+    font-size: larger;
+    margin: 30px 0px 100px 0px;
+}
+
+.funding-context > p{
+    display: inline-block;
+    line-height: 30px;
+}
+
+.marliyn-guideline > p {
+    display: inline-block;
+    line-height: 30px;
+}
+
+.center-info > p{
+    color: #093f39;
+}
+
+.thanks > p{
+    display: inline-block;
+    line-height: 30px;
+    margin: 20px 20px 20px 30px;
+}
+
+.awardees > h2{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.media-object{
+    width: 418px;
+    height: 425px;
+    margin: 20px;
+}
+
+.media-body > h4{
+    margin-bottom: 20px;
+}
+
+.ma-flyer-btn{
+    text-align: center;
+}
+
+.ma-flyer-btn > a{
+    text-align: center;
+    font-size: larger;
+    margin: 50px;
+}
+
+
