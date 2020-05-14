@@ -124,6 +124,7 @@ conferences
     marilyn
  */
 
+
 .marilyn-info > div{
     margin: 20px 0px 20px 0px;
     padding: 0;
@@ -214,4 +215,70 @@ conferences
     margin: 50px;
 }
 
+/**
+    resident
+ */
+#resident-eligibility{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
 
+#resident-guideline-application{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+/**
+    faculty-fellowship
+ */
+
+
+.competition-info > p:nth-of-type(1){
+    margin-top: 40px;
+    color: red;
+    font-family: 'cursive';
+    font-size: 35px;
+}
+
+hr{
+    margin-bottom: 50px;
+    border: 0;
+    color: black;
+    background-color: black;
+    height: 1px
+}
+.media{
+    margin-top: 40px;
+}
+
+.media-object{
+    width: 215px;
+    height: 175px;
+}
+
+.media-heading{
+    margin-top: 30px;
+}
+
+.media > hr{
+    margin-bottom: 50px;
+    border: 0;
+    color: black;
+    background-color: black;
+    height: 1px
+}
+
+/**
+    working group
+ */
+
+.list-group-item > strong{
+    color: #0c5449;
+}
