@@ -2,36 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.14.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.15.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.21.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.22.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/doctoral/Doctoral Dissertation 2020-2021.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/graduate_travel/2019_2020_Grad travel flyer.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/2019/Harrison Anthropology.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/2019/Salam Aboulhassan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/dotoral.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/graduate_travel/graduatetravel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Fuhlhage, Michael.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Hines, Billicia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Jose Cuello.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Lanza, Janine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Nicole Coleman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Trujillo-Pagan, Nicole.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/brumley-image700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/stine eckert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.13.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.19.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.25.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.26.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/3.4.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/advisory_board_19-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/advisory_board_19-20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/annual_reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/annual_reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/message_from_TD.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/message_from_TD.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/staff.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/steering_committee.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/steering_committee.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brown_bag_talk/2020-2011.html" beforeDir="false" afterPath="$PROJECT_DIR$/brown_bag_talk/2020-2011.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conferences/2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/conferences/2020.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/faculty_fellowship_competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/faculty_fellowship_competition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faculty_funding/marilyn_william.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/marilyn_william.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/resident_scholars.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/resident_scholars.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/working_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/working_groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student_funding/doctoral_dissertation_fellowship.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_funding/doctoral_dissertation_fellowship.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/student_funding/graduate_travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_funding/graduate_travel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +91,7 @@
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
       <workItem from="1583861798548" duration="30887000" />
-      <workItem from="1589307922124" duration="44792000" />
+      <workItem from="1589307922124" duration="47428000" />
     </task>
     <servers />
   </component>
