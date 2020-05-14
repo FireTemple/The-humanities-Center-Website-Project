@@ -282,3 +282,31 @@ hr{
 .list-group-item > strong{
     color: #0c5449;
 }
+
+/**
+    doctoral
+ */
+
+#doc-application{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#doc-eligibility{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#redsdent-awardees{
+    color: #CE254B;
+    font-size: 3em;
+    font-family: cursive;
+    text-align: center;
+    margin-bottom: 30px;
+}

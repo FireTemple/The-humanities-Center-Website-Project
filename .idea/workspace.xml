@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbdbadf6-f139-49af-8cb8-325e0f2b402a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file/faculty_fellowship_comp/2019/2019-20 Faculty Fellowship Competition.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/faculty_fellowship_comp/2020/2020-21 Faculty Fellows Competition.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/resident/2019-20 Faculty Fellowship Competition.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/resident/Resident Scholars flyer 2020-2021 flyer.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/working_group/2020/2020-2021 Working Groups.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/Billicia H.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/Kristin Taylor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/Natalie Bakopoulos.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/Ras M.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/img_0150_2016_03_31_smaller.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/faculty_fellowship/nb-authorphoto_reduced.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/16-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/welcome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/working_group/workinggroups.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.15.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.21.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.22.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/1.23.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/brown_bag_talk/2020-2021/2.5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/doctoral/Doctoral Dissertation 2020-2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/graduate_travel/2019_2020_Grad travel flyer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/2019/Harrison Anthropology.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/2019/Salam Aboulhassan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dotoral_dissertation/dotoral.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/graduate_travel/graduatetravel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Fuhlhage, Michael.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Hines, Billicia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Jose Cuello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Lanza, Janine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Nicole Coleman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/Trujillo-Pagan, Nicole.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/brumley-image700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/resident_scholars_program/2019/stine eckert.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brown_bag_talk/2020-2011.html" beforeDir="false" afterPath="$PROJECT_DIR$/brown_bag_talk/2020-2011.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conferences/2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/conferences/2020.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/faculty_fellowship_competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/faculty_fellowship_competition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faculty_funding/marilyn_william.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/marilyn_william.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/resident_scholars.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/resident_scholars.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/faculty_funding/working_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/faculty_funding/working_groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templet.html" beforeDir="false" afterPath="$PROJECT_DIR$/templet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_funding/doctoral_dissertation_fellowship.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_funding/doctoral_dissertation_fellowship.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_funding/graduate_travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/student_funding/graduate_travel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +66,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/working_group" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/file/graduate_travel" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -70,11 +78,11 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file/graduate_travel" />
+      <recent name="$PROJECT_DIR$/images/graduate_travel" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/dotoral_dissertation" />
       <recent name="$PROJECT_DIR$/images/working_group" />
-      <recent name="$PROJECT_DIR$/images/faculty_fellowship" />
-      <recent name="$PROJECT_DIR$/file/faculty_fellowship_comp/2019" />
-      <recent name="$PROJECT_DIR$/file/faculty_fellowship_comp" />
-      <recent name="$PROJECT_DIR$/fonts" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -89,7 +97,7 @@
       <updated>1583805918693</updated>
       <workItem from="1583805920481" duration="818000" />
       <workItem from="1583861798548" duration="30887000" />
-      <workItem from="1589307922124" duration="37753000" />
+      <workItem from="1589307922124" duration="44792000" />
     </task>
     <servers />
   </component>
@@ -118,10 +126,10 @@
     <state width="523" height="989" key="SwitcherDM/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1589379160727" />
     <state width="522" height="445" key="SwitcherDM/0.23.1280.777/-1920.-75.1920.1057/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1583806171957" />
     <state width="619" height="400" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1583864964309" />
-    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup" timestamp="1589410471393">
+    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup" timestamp="1589422784616">
       <screen x="-3000" y="-575" width="1080" height="1920" />
     </state>
-    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1589410471393" />
+    <state x="-2743" y="-325" width="670" height="1671" key="search.everywhere.popup/0.0.1280.800/-1920.-98.1920.1080/-3000.-575.1080.1920@-3000.-575.1080.1920" timestamp="1589422784616" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1583869387155" />
   </component>
 </project>
